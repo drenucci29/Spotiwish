@@ -1,0 +1,34 @@
+
+/* Utiliser "border: 5px solid green;" pour une bordure */
+
+.Jaquette {
+  width:200px;
+  height: 200px;
+}
+
+.titres {
+  color: green;
+  text-shadow: green 5px 0 10px;
+}
+
+body {
+  background-color: black;
+}
+
+footer {
+  color: green;
+  border: 5px solid green;
+}
+
+figcaption {
+  color: green;
+}
+
+.texte-jaquette:hover {
+  color: green;
+}
+
+.Réseau {
+  width: 200px;
+  height: 200px;
+}
